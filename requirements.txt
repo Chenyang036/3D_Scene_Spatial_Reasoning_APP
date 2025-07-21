@@ -1,0 +1,8 @@
+streamlit
+open3d
+plotly
+numpy
+scikit-learn
+torch
+transformers
+spacy
